@@ -6,5 +6,9 @@ puts "Wingardium Leviosa"
 puts "Wingardium Leviosa"
 puts "Wingardium Leviosa"
 puts "Wingardium Leviosa"
-
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
 end
